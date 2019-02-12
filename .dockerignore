@@ -1,0 +1,42 @@
+.git/
+dist/
+documentation/
+node_modules/
+src/plugins/.gitkeep
+.dockerignore
+.editorconfig
+.eslintignore
+.eslintrc
+.gitattributes
+.gitignore
+.nvmrc
+.tern-project
+CHANGELOG.md
+config-sample.cson
+Dockerfile
+LICENSE.md
+npm-debug.log
+README.md
+yarn-error.log
+
+src/plugins/music/node_modules/
+src/plugins/music/.gitignore
+src/plugins/music/LICENSE.md
+src/plugins/music/README.md
+
+# music/
+# avatar.png
+# config.cson
+ffmpeg.exe
+
+# System files
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# IDE/Editor files
+.sublime-gulp.cache
+.sublime-gulp-tmp.js
+sublime-gulp.log
+*.sublime-workspace
+*.sublime-project
