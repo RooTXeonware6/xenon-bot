@@ -1,0 +1,28 @@
+{
+  "name": "discord-music",
+  "description": "This is a music for Discord based on the Discord Bot API (https://github.com/simonknittel/discord-bot-api)",
+  "author": "Simon Knittel <hallo@simonknittel.de> (https://simonknittel.de)",
+  "homepage": "https://github.com/simonknittel/discord-bot-api",
+  "keywords": [
+    "discord",
+    "music",
+    "bot",
+    "youtube",
+    "play",
+    "stream"
+  ],
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simonknittel/discord-bot-api"
+  },
+  "bugs": {
+    "url": "https://github.com/simonknittel/discord-bot-api/issues"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "mkdirp": "0.5.1",
+    "youtube-info": "1.1.1",
+    "youtube-mp3-downloader": "0.4.4"
+  }
+}
